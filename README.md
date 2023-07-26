@@ -1,5 +1,5 @@
 # BOOK-STORE
-An app that allows you to display a list of added books, add new book and update a book,remove a book
+An app that allows you to display a list of added books, add new book, update a book and remove a book
 # OUTPUT
 
  ![11](https://github.com/Chaitanyasri-27/BOOK-STORE/assets/140045493/517a0550-dbe9-45f7-b73a-15354863a313)
